@@ -19,6 +19,7 @@
   "homepage": "https://github.com/takumi1005/typescript-lerning#readme",
   "devDependencies": {
     "ts-node": "^9.0.0",
+    "ts-node-dev": "^1.0.0-pre.65",
     "typescript": "^4.0.3"
   }
 }
