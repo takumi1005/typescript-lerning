@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/takumi1005/typescript-lerning/issues"
   },
-  "homepage": "https://github.com/takumi1005/typescript-lerning#readme"
+  "homepage": "https://github.com/takumi1005/typescript-lerning#readme",
+  "devDependencies": {
+    "typescript": "^4.0.3"
+  }
 }
